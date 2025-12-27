@@ -49,9 +49,6 @@ def compute_tax(status, income):
             break
 
     return tax
-
-
-# -------- MAIN PROGRAM --------
 print("Filing Status Options:")
 print("0 - Single")
 print("1 - Married Filing Jointly or Qualifying Widow(er)")
